@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:p="http://www.springframework.org/schema/p"
+    xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!-- Spring bean Inheritance we use parent -->
+    <bean id="user1" class="co.spring.core.beans.User">
+            <property name="firstName" value="Shravan"/>
+    </bean>
+
+    <bean id="user2" parent="user1">
+        <property name="lastName" value="Reddy"/>
+    </bean>
+
+
+</beans>
