@@ -9,9 +9,9 @@ public class Main {
     public static void main(String[] args) {
 
         spring1();
-//        spring2();
-//        springLifeCycle();
-//        springBeanInheritance();
+        spring2();
+        springLifeCycle();
+        springBeanInheritance();
     }
 
     private static void spring1() {

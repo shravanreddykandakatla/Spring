@@ -4,25 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c25d460-42ce-4d6f-8874-2c58af2d6131" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/spring/core/CustomerCar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/spring/core/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/spring/core/beans/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/spring/core/beans/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/co/spring/core/beans/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/customer-beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/customer-beans1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/customer-beans2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/user-beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/user-beans2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/user-beans3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/user-beans4.xml" afterDir="false" />
+    <list default="true" id="0c25d460-42ce-4d6f-8874-2c58af2d6131" name="Changes" comment="Spring initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/spring/core/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/spring/core/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,27 +32,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CustomerCar.executor": "Run",
-    "Application.Main.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/shrav/MyWorkSpace/Spring/src/main/resources",
-    "onboarding.tips.debug.path": "C:/Users/shrav/MyWorkSpace/Spring/src/main/java/org/example/Main.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CustomerCar.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/shrav/MyWorkSpace/Spring/src/main/resources&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/shrav/MyWorkSpace/Spring/src/main/java/org/example/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\shrav\MyWorkSpace\Spring\src\main\resources" />
       <recent name="C:\Users\shrav\MyWorkSpace" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CustomerCar">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="CustomerCar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="co.spring.core.CustomerCar" />
       <module name="Spring" />
@@ -97,8 +81,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CustomerCar" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.CustomerCar" />
       </list>
     </recent_temporary>
   </component>
@@ -118,7 +102,20 @@
       <option name="presentableId" value="Default" />
       <updated>1711925562583</updated>
     </task>
+    <task id="LOCAL-00001" summary="Spring initial commit">
+      <option name="closed" value="true" />
+      <created>1713649691570</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713649691570</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Spring initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Spring initial commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
